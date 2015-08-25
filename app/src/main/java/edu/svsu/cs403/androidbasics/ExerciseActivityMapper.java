@@ -29,9 +29,9 @@ public class ExerciseActivityMapper {
         // Chapter 1: App Fundamentals
         exerciseClassMap.put("chap1ex1", BasicTextViewActivity.class);
         // Chapter 2: User Interface
-        /*exerciseClassMap.put("chap2ex1", LinearLayoutDemoActivity.class);
+        exerciseClassMap.put("chap2ex1", LinearLayoutDemoActivity.class);
         // Chapter 3: View Controls
-        exerciseClassMap.put("chap3ex1", LayoutGravityActivity.class);
+        /*exerciseClassMap.put("chap3ex1", LayoutGravityActivity.class);
         exerciseClassMap.put("chap3ex2", BasicViewsActivity.class);
         exerciseClassMap.put("chap3ex3", ViewAttributesActivity.class);
         exerciseClassMap.put("chap3ex4", SimpleListViewActivity.class);

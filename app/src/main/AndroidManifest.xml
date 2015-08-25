@@ -20,6 +20,10 @@
             android:name=".BasicTextViewActivity"
             android:label="@string/title_activity_basic_text_view" >
         </activity>
+        <activity
+            android:name=".LinearLayoutDemoActivity"
+            android:label="@string/title_activity_linear_layout_demo" >
+        </activity>
     </application>
 
 </manifest>
