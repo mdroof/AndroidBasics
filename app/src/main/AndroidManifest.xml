@@ -24,6 +24,14 @@
             android:name=".LinearLayoutDemoActivity"
             android:label="@string/title_activity_linear_layout_demo" >
         </activity>
+        <activity
+            android:name=".BasicClickHandlersActivity"
+            android:label="@string/title_activity_basic_click_handlers" >
+        </activity>
+        <activity
+            android:name=".ListViewClicksActivity"
+            android:label="@string/title_activity_list_view_clicks">
+        </activity>
     </application>
 
 </manifest>

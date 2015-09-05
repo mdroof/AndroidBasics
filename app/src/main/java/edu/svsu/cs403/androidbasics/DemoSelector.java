@@ -81,7 +81,7 @@ public class DemoSelector extends AppCompatActivity {
                 String exerciseTitle =  (String)elaAdapter.getChild(groupPosition, childPosition);
                 Class<? extends Activity> exerciseClass = elaAdapter.getExerciseClass(groupPosition, childPosition, id);
                 if (exerciseClass != null) {
-                    Toast.makeText(DemoSelector.this, exerciseTitle, Toast.LENGTH_LONG).show();
+                    Toast.makeText(DemoSelector.this, exerciseTitle, Toast.LENGTH_SHORT).show();
                     startActivity(new Intent(DemoSelector.this, exerciseClass));
                 } else {
                     Toast.makeText(DemoSelector.this, "Exercise Not Available", Toast.LENGTH_SHORT).show();

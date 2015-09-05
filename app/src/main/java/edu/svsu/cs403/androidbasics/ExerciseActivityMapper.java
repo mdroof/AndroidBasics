@@ -34,10 +34,11 @@ public class ExerciseActivityMapper {
         /*exerciseClassMap.put("chap3ex1", LayoutGravityActivity.class);
         exerciseClassMap.put("chap3ex2", BasicViewsActivity.class);
         exerciseClassMap.put("chap3ex3", ViewAttributesActivity.class);
-        exerciseClassMap.put("chap3ex4", SimpleListViewActivity.class);
+        exerciseClassMap.put("chap3ex4", SimpleListViewActivity.class);*/
         // Chapter 4: User Interactions
         exerciseClassMap.put("chap4ex1", BasicClickHandlersActivity.class);
         exerciseClassMap.put("chap4ex2", ListViewClicksActivity.class);
+        /*
         // Chapter 5: User Flows
         exerciseClassMap.put("chap5ex1", ExplicitIntentActivity.class); // Explicit Intents
         exerciseClassMap.put("chap5ex2", ImplicitIntentsActivity.class); // Implicit Intents
